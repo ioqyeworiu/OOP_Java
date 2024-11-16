@@ -5,7 +5,7 @@ import java.util.Scanner;
 
 public class Main {
 	public static void main(String[] args) throws FileNotFoundException {
-		File file = new File("E:\\UNIVERSITY SUBJECTS\\Program in vscode\\Code ptit\\OOP\\J07058\\src\\MONHOC.in");
+		File file = new File("MONHOC.in");
 		Scanner ip = new Scanner(file);
 		ArrayList<MonHoc> danhSachMon = new ArrayList<>();
 		int k=0;
