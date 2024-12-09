@@ -1,0 +1,15 @@
+3
+Tran Vu Minh
+Ha Noi
+8:30
+Vu Ngoc Hoang
+Hoa Binh
+8:20
+Pham Dinh Tan
+An Giang
+8:45
+
+
+HBVNH Vu Ngoc Hoang Hoa Binh 51 Km/h
+HNTVM Tran Vu Minh Ha Noi 48 Km/h
+AGPDT Pham Dinh Tan An Giang 44 Km/h

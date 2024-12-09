@@ -1,0 +1,11 @@
+Cho đồ thị vô hướng G=<V, E> được biểu diễn dưới dạng ma trận kề. Hãy viết chương trình thực hiện chuyển đổi biểu diễn đồ thị dưới dạng danh sách cạnh.
+
+Yêu cầu: Khai báo và sử dụng lớp Pair kiểu Generic để ghép cặp hai số Integer (mô tả một cạnh). Nếu không có lớp Pair thì không được tính điểm.  
+
+Input:
+
+Dòng đầu tiên ghi số N là số đỉnh của đồ thị (không quá 1000)
+N dòng tiếp theo đưa vào các phần tử của ma trận kề.
+Output:
+
+Đưa ra danh sách cạnh tương ứng theo khuôn dạng trong ví dụ dưới đây.

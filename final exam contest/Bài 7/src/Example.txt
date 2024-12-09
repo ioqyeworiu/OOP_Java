@@ -1,0 +1,15 @@
+Cho dãy số A[] gồm có N phần tử. Nhiệm vụ của bạn là hãy sắp xếp dãy số này theo tần suất xuất hiện của chúng. Số nào có số lần xuất hiện lớn hơn in ra trước. Nếu có 2 số có số lần xuất hiện bằng nhau, số nào xuất hiện trong dãy A[] trước sẽ được in ra trước.
+
+Chú ý: Nên cố gắng sử dụng các lớp phù hợp trong Java. 
+
+Input:
+
+Dòng đầu tiên là số lượng bộ test T (T ≤ 10).
+
+Mỗi test gồm số nguyên N (1≤ N ≤ 100 000), số lượng phần tử trong dãy số ban đầu.
+
+Dòng tiếp theo gồm N số nguyên A[i] (-10^9 ≤ A[i] ≤ 10^9).
+
+Output: 
+
+Với mỗi test, in ra trên một dòng là dãy số thu được sau khi thực hiện sắp xếp.

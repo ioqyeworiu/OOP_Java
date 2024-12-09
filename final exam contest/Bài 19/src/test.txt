@@ -1,0 +1,31 @@
+input
+4 5
+
+NgayNhapHoc is-a Ngay
+
+SinhVien is-a Nguoi
+
+SinhVien has-a NgayNhapHoc
+
+Nguoi has-a DiaChi
+
+NgayNhapHoc is-a Ngay
+
+Ngay is-a NgayNhapHoc
+
+SinhVien has-a Ngay
+
+SinhVien has-a DiaChi
+
+Ngay is-a Ngay
+
+output
+Query 1: true
+
+Query 2: false
+
+Query 3: true
+
+Query 4: true
+
+Query 5: true

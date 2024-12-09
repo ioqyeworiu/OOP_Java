@@ -1,0 +1,47 @@
+BAITAP.in
+
+B19DCCN123
+
+Tran Van An
+
+Tim hieu dien toan dam may
+
+B19DCCN987
+
+Hoang Van Binh
+
+Xay dung game nhap vai
+
+B20DCCN222
+
+Nguyen Van Huy
+
+Xay dung web ban hang
+
+BAOCAO.in
+
+B19DCCN123
+
+13:45
+
+B19DCCN987
+
+07:30
+
+B20DCCN222
+
+08:00
+
+Output
+
+DANH SACH SINH VIEN BAO CAO CA SANG: 2
+
+B19DCCN987 Hoang Van Binh Xay dung game nhap vai 07:30
+
+B20DCCN222 Nguyen Van Huy Xay dung web ban hang 08:00
+
+ 
+
+DANH SACH SINH VIEN BAO CAO CA CHIEU: 1
+
+B19DCCN123 Tran Van An Tim hieu dien toan dam may 01:45

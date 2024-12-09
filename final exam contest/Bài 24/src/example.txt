@@ -1,0 +1,12 @@
+Khoa CNTT tổ chức báo cáo thực tập cho sinh viên năm cuối. Ngày báo cáo đã được xác định trước, các sinh viên sẽ được báo cáo vào các khung giờ khác nhau.
+
+Danh sách đề tài thực tập đã được lưu trong file văn bản BAITAP.in trong đó ghi thông tin về đề tài thực tập, mỗi đề tài gồm 3 dòng lần lượt là:
+
+Mã sinh viên: dạng xâu ký tự, không quá 10 ký tự
+Họ và tên: không quá 30 ký tự
+Tên đề tài: không quá 200 ký tự
+Lịch báo cáo được thể hiện trong file văn bản BAOCAO.in trong đó mỗi sinh viên sẽ ghi trên 2 dòng:
+
+Mã sinh viên
+Thời gian báo cáo theo định dạng hh:mm trong đó hh ghi giá trị giờ (định dạng 24h); mm là giá trị phút. Ví dụ: 08:40, không trùng nhau
+Hãy in ra màn hình thứ tự báo cáo, chia làm 2 ca sáng và chiều (ca sáng kết thúc trước12h trưa, ca chiều tính từ 12h, cùng số lượng sinh viên báo cáo) mỗi dòng ghi đủ các thông tin: mã sinh viên, họ tên, tên đề tài và thời gian báo cáo, do đã chia ra 2 ca nên thời gian ca chiều đổi về định dạng 12h cho dễ theo dõi. Các thông tin cách nhau bởi khoảng trống.

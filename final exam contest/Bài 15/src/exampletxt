@@ -1,0 +1,15 @@
+Cho file văn bản VANBAN.in gồm không quá 1000 dòng, mỗi dòng không quá 200 ký tự. Một “từ” trong file văn bản được định nghĩa là một dãy liên tiếp các ký tự không chứ khoảng trống hoặc dấu tab, dấu xuống dòng.
+
+Hãy lọc ra các “từ” có chứa ký tự số và không chứa các dấu câu (gồm dấu chấm (.), dấu phẩy(,), dấu chấm than (!), dấu chấm hỏi (?), dấu hai chấm (:).
+
+(Chú ý chỉ xét các dấu câu liệt kê ở trên).
+
+In danh sách các từ thoả mãn theo thứ tự từ điển.
+
+Input
+
+File văn bản VANBAN.in gồm không quá 1000 dòng, mỗi dòng không quá 200 ký tự
+
+Output
+
+Ghi ra các từ thoả mãn, mỗi từ trên một dòng, theo thứ tự từ điển.

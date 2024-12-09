@@ -1,0 +1,32 @@
+Sinh viên năm 3 tại PTIT bắt đầu phải học một loạt các môn học liên quan đến tư duy Hướng đối tượng. Trong rất nhiều những thứ khó hiểu thì cũng có một vài thứ khá dễ hiểu. Ví dụ như quan hệ giữa các lớp. Ở đây, ta chỉ quan tâm đến hai quan hệ is-a và has-a:
+
+Quan hệ is-a cho biết lớp này là lớp con của lớp kia. Ví dụ: A is-a B tức là A là lớp con của B.
+Quan hệ has-a cho biết lớp này có một thuộc tính kiểu lớp kia. Ví dụ: A has-a B tức là trong lớp A có một thuộc tính kiểu B.
+Cả hai quan hệ trên đều có tính chất bắc cầu. Ví dụ nếu A is-a B và B is-a C thì A is-a C. Tương tự với quan hệ has-a. Nếu A has-a B và B has-a C thì A has-a C.
+
+Chúng ta cũng sẽ có tính chất kết hợp giữa hai quan hệ này.
+
+Xét ví dụ với các lớp:
+
+Lớp Người
+Lớp Sinh Viên
+Lớp Ngày
+Lớp Ngày Nhập Học
+Lớp Địa Chỉ
+Ta có SinhVien has-a Ngay, vì SinhVien has-a NgayNhapHoc và NgayNhapHoc is-a Ngay. Tương tự, nếu Nguoi has-a DiaChi thì SinhVien has-a DiaChi, vì SinhVien is-a Nguoi.
+
+Cho trước các quan hệ is-a hoặc has-a giữa các class và một tập các truy vấn. Hãy xác định xem mỗi truy vấn là đúng hay sai.
+
+Dữ liệu vào:
+
+Dòng đầu tiên ghi hai số nguyên n,m (1 ≤ n; m ≤ 10 000 ) trong đó n là số dòng mô tả các quan hệ giữa các class, m là số truy vấn.
+
+Tiếp theo là n dòng mô tả các quan hệ is-a hoặc has-a. Sẽ có tối đa 500 tên lớp xuất hiện trong n dòng này. Tên lớp là dãy ký tự viết liền không dấu và không có khoảng trống.
+
+Quan hệ is-a sẽ không có trường hợp phản xạ (tức là không có dòng nào kiểu x is-a x)
+
+Tiếp theo là m dòng mô tả các truy vấn. Các tên lớp trong m dòng này đảm bảo đã xuất hiện trong n dòng trước đó.
+
+Kết quả
+
+Có m dòng. Với mỗi truy vấn, ghi ra thứ tự truy vấn, dấu hai chấm và  giá trị logic true hoặc false xác định được.

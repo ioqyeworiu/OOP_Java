@@ -1,0 +1,57 @@
+Input – DANHSACH.in
+
+B21DCCN123
+
+Tran Van Toan
+
+D21CQCN01-B
+
+toantv@gmail.com
+
+987654321
+
+B21DCCN111
+
+Ly Van Binh
+
+D21CQCN01-B
+
+binhlv@gmail.com
+
+978652142
+
+B21DCAT661
+
+Hoang Tam Anh
+
+D21CQAT01-B
+
+anhht@gmail.com
+
+966554321
+
+Input – HUONGDAN.in
+
+2
+
+Tran Van Nam 2
+
+B21DCCN111 Phat trien ung dung TMDT
+
+B21DCAT661 Xay dung ung dung quan ly ban hang
+
+Duong Tuan Anh 1
+
+B21DCCN123 Xay dung game nhap vai voi Unity 3D
+
+ 
+
+ 
+
+Output – in ra màn hình
+
+B21DCAT661 Hoang Tam Anh Tran Van Nam Xay dung ung dung quan ly ban hang 0966554321
+
+B21DCCN111 Ly Van Binh Tran Van Nam Phat trien ung dung TMDT 0978652142
+
+B21DCCN123 Tran Van Toan Duong Tuan Anh Xay dung game nhap vai voi Unity 3D 0987654321

@@ -1,0 +1,20 @@
+Cho danh sách N số nguyên dương, mỗi số không quá 500 chữ số.
+
+Hãy thực hiện các phép toán sau:
+
+Tim số nhỏ nhất và in ra màn hình
+Tìm số lớn nhất và in ra màn hình
+Tính tổng tất cả các số và in kết quả ra màn hình
+Input – file văn bản DAYSO.in
+
+Dòng đầu ghi số N (không quá 100).
+
+N dòng tiếp theo, mỗi dòng ghi 1 số. Các số đều nguyên dương và không quá 500 chữ số.
+
+Output – ghi ra màn hình
+
+Dòng đầu ghi ra số nhỏ nhất.
+
+Dòng thứ hai ghi ra số lớn nhất
+
+Dòng thứ ba ghi ra tổng tất cả các số trong dãy

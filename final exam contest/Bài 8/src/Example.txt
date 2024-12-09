@@ -1,0 +1,13 @@
+Một trong những thành phần quan trọng của các dữ liệu log hệ thống là các mốc thời gian. Trong bài toán này ta xét các mốc thời gian giờ:phút:giây, theo đúng định dạng 8 ký tự hh:mm:ss
+
+Giả sử một mốc thời gian hợp lệ nếu viết đúng theo định dạng 24h, phân tách với các dữ liệu khác trong luồng dữ liệu vào bởi khoảng trống, dấu tab, dấu xuống dòng hoặc dấu chấm (.) hay dấu phẩy (,)
+
+Hãy tìm các giá trị mốc thời gian hh:mm:ss hợp lệ khác nhau xuất hiện trong luồng dữ liệu vào và liệt kê theo thứ tự từ nhỏ đến lớn (tức là từ 00:00:00 đến 23:59:59).
+
+Input
+
+Gồm không quá 100.000 dòng log dạng dữ liệu văn bản. Tuy nhiên bạn không biết trước là có bao nhiêu dòng mà sẽ phải đọc đến hết luồng dữ liệu vào.
+
+Output
+
+Liệt kê lần lượt các mốc thời gian khác nhau theo thứ tự từ nhỏ đến lớn.

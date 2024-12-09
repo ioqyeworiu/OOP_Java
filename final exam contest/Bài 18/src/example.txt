@@ -1,0 +1,31 @@
+Với danh sách liên lạc của sinh viên đã có trong bài DANH SÁCH LIÊN LẠC, văn phòng Khoa CNTT1 lập danh sách hướng dẫn đồ án tốt nghiệp. Trong đó mỗi giảng viên sẽ cho biết số sinh viên mình hướng dẫn, sau đó lần lượt là mã sinh viên rồi đến tên đồ án.
+
+Hãy lập danh sách các đồ án tốt nghiệp trong đó ghi rõ mã sinh viên, tên sinh viên, tên giảng viên, tên đồ án tốt nghiệp, số điện thoại liên lạc.
+
+Input – 2 file văn bản
+
+File DANHSACH.in
+
+Không có số lượng sinh viên. Nhưng biết mỗi sinh viên ghi trên 5 dòng gồm:
+
+Mã sinh viên
+Họ tên
+Lớp
+Email
+Số điện thoại (thiếu chữ số 0 ở đầu).
+File HUONGDAN.in
+
+Dòng đầu ghi số giảng viên tham gia hướng dẫn. Với mỗi giảng viên:
+
+Dòng đầu ghi tên giảng viên, sau đó đến 1 số nguyên N (ở cuối dòng) cho biết số đồ án hướng dẫn (trong phạm vi từ 1 đến 7).
+Tiếp theo là N dòng, mỗi dòng ghi mã sinh viên, sau đó đến tên đồ án (tên có thể dài đến 200 ký tự).
+Output
+
+Ghi ra danh sách các đồ án đã sắp xếp theo mã sinh viên (thứ tự từ điển). Các thông tin cần liệt kê gồm:
+
+Mã sinh viên
+Tên sinh viên
+Tên giảng viên hướng dẫn
+Tên đồ án
+Số điện thoại
+Các thông tin cách nhau 1 khoảng trống.

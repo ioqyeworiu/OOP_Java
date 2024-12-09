@@ -1,0 +1,16 @@
+Cho một đoạn code với ngôn ngữ C++ được lưu trong file CODE.cpp.
+
+Chúng ta đều đã biết kích thước tương ứng với kiểu dữ liệu int là 4 byte. Hãy tính xem có nhiêu byte đã được sử dụng trong các khai báo biến int của đoạn code đã cho.
+
+Chú ý:
+
+Cần tính cả các khai báo mảng hoặc ma trận nếu có.
+Khai báo biến ở bất cứ đâu cũng cần được tính.
+Đoạn code đảm bảo không sử dụng kiểu con trỏ hoặc các kiểu dữ liệu không cơ bản và cũng không sử dụng khai báo động.
+Input – file CODE.cpp
+
+Một file mã nguồn trong ngôn ngữ C++ (file văn bản)
+
+Output
+
+Số byte đã sử dụng

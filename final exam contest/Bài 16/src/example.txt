@@ -1,0 +1,20 @@
+Hết học kỳ nên rảnh rỗi, nhóm admin CODE PTIT thử thống kê xem trong học kỳ vừa qua sinh viên nào online liên tục lâu nhất trên hệ thống.
+
+Thông tin về thời gian online dài nhất của cá nhân mỗi sinh viên được truy vấn từ CSDL sau đó mô tả với ba thông tin:
+
+Họ và tên sinh viên: xâu ký tự Tiếng Việt không dấu, độ dài không quá 50
+Thời gian bắt đầu: đúng định dạng: dd/mm/yyyy hh:mm:ss
+Thời gian kết thúc: đúng định dạng: dd/mm/yyyy hh:mm:ss
+Hãy tính thời gian online của từng sinh viên và sắp xếp theo thứ tự thời gian giảm dần (từ lâu nhất đến ít nhất). Nếu hai sinh viên có thời gian online bằng nhau thì sắp xếp theo họ tên (thứ tự từ điển).
+
+Input
+
+File văn bản ONLINE.in
+
+Dòng đầu ghi số sinh viên
+Mỗi sinh viên ghi trên ba dòng lần lượt là họ tên (đã chuẩn hóa), thời gian bắt đầu, thời gian kết thúc.
+Output
+
+Ghi ra danh sách sắp xếp theo thời gian online giảm dần.
+
+Mỗi dòng ghi họ tên và thời lượng online (tính theo phút)

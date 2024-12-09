@@ -1,0 +1,15 @@
+Cho file nhị phân DATA.in trong đó ghi một ArrayList<String> theo kiểu Object, với không quá 1000 String, mỗi String là một dãy chữ số độ dài không quá 100.
+
+Với mỗi dãy chữ số trong danh sách, hãy tách ra các chữ số nhị phân (ký tự ‘0’ hoặc ‘1’) để tạo nên các biểu diễn dãy nhị phân. Sau đó tính giá trị thập phân ứng với dãy nhị phân đó. Dữ liệu vào đảm bảo dãy nhị phân dài không quá 63 ký tự, tức là giá trị thập phân tương ứng cũng không vượt quá kiểu long trong Java.
+
+ 
+
+Input – file nhị phân DATA.in
+
+Gồm một ArrayList<String> với mỗi String là một dãy chữ số.
+
+ 
+
+Output
+
+Ghi ra các giá trị nhị phân cho mỗi String trong danh sách và giá trị thập phân tương ứng.
